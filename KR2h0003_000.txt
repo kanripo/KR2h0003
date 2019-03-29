@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南北史識小錄
-#+DATE: 2019-03-29 20:51:24.276038
+#+DATE: 2019-03-29 20:51:24.401339
 #+PROPERTY: ID KR2h0003
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR2h0003_WYG_000-1a>¶
 　　欽定四庫全書　　　　　史部八¶
